@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+#left_content {
+    width: 50%;
+    float: left;
+    text-align: right;
+}
+#right_content {
+    width: 50%;
+    float: right;
+    text-align: left;
+}
+.footer {
+    width: 50%;
+    clear: both;
+    text-align: right;
+}
+a:link{
+    font-size: 10pt;
+    text-decoration: none;
+    color: gray;
+}
+a:hover{
+    font-size: 10pt;
+    text-decoration: underline;
+    color: gray;
+}
+a:visited{
+    font-size: 10pt;
+    text-decoration: none;
+    color: gray;
+}

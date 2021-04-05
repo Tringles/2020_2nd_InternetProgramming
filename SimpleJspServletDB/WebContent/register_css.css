@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.layer {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.layer .content {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12pt;
+}
+.layer .blank {
+    display: inline-block;
+    width: 0;
+    height: 100%;
+    vertical-align: middle
+}
